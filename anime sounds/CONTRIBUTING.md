@@ -27,7 +27,7 @@
 1. Find sounds in any anime episode you like
 2. Record it and save it as a mp4 file.
 3. MUST be a sound not inclusive of japanese words etc.
-4. Name mp4
+4. Name mp4 like this: <description of sound>_<anime name>_<episode>_<time stamp>
 
 ### Creating the Pull Request
 
