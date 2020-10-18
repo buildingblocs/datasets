@@ -19,7 +19,7 @@ This dataset is created for image recognition of food over various doneness leve
 2. Size of images should be **800 x 600** pixels
 3. Please follow this naming convention:
      * <folder_name>_<name_of_food>.jpg
-     * e.g. cooked_bacon.jpeg'
+     * e.g. cooked_bacon.jpg'
 4. Be **specific** with the name of your picture.
      Do not name a picture of a hard boiled egg as just "egg"
 
