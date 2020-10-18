@@ -4,6 +4,6 @@
 *<doneness>_<name_of_food>.jpeg
    *e.g. cooked_bacon.jpeg
 * Please be **specific** with the name of your picture.
-   *e.g. do not name a picture of a hard boiled egg just as "egg"
-* Please ensure that the name of the food item across the different files should remain the same
+   Do not name a picture of a hard boiled egg as just "egg"
+* Please ensure that the name of the food item across the different files are the same
   
