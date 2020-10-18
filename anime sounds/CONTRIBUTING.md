@@ -4,7 +4,7 @@
 
 - Github account
 - Folder (named appropriately)
-- Must be a mp4 file from an anime
+- Must be a mp4 file from an anime (<100mb)
 
 ---
 
