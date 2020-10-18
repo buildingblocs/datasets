@@ -7,11 +7,11 @@ This dataset is specifically created for the contribution towards building a sma
 
 1. Fork the project
 2. Create a new branch (`git checkout -b "new_contribution"`)
-3. Commit your change (`git commit -m "Added new template"`)
-4. Push to your branch (`git push origin "new_contribution"`)
+      * Please make sure that the branch is named appropriately. 
+3. Commit your change (`git commit -m "Added new lift image"`)
+4. Push to your branch (`git push origin new_contribution`)
 5. Return to Github and open the pull request
-
-**Important:** Naming Convention:`lift-images/<description_of_pull_request>`
+      * Pull request naming convention: `Lift-Images/<Description_Of_PR>`
 
 ## Requirements
 1. Only images taken by yourself will be accepted.
