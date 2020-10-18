@@ -1,6 +1,6 @@
 ### 1. Images should be in **jpeg** format
-### 2. Size of the image should be **800 x 600**
-### 3. Naming convention
+### 2. Size of the image should be **800 x 600** pixels
+### 3. Please follow this naming convention
       <doneness>_<name_of_food>.jpeg
       e.g. cooked_bacon.jpeg
 ### 4. Be **specific** with the name of your picture.
