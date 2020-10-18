@@ -3,6 +3,7 @@
 ---
 ## Usage
 This dataset is created for image recognition of food over various doneness levels.
+Doneness levels: Raw, undercooked, cooked, overcooked
 
 ## Creating the pull request
 
