@@ -11,11 +11,12 @@
 
 1. Fork the project
 2. Create a new branch (`git checkout -b "new_contribution"`)
-3. Commit your images of tactile paving tiles (`git commit -m "Added new template"`)
-4. Push to your branch (`git push origin "new_contribution"`)
+    * Please make sure that the branch is named appropriately.
+3. Commit your change (`git commit -m "Added new tactile paving tiles image"`)
+4. Push to your branch (`git push origin new_contribution`)
 5. Return to Github and open the pull request
+    * Pull request naming convention: `Tactile_Paving_Tiles-Images/<Description_Of_PR>`
 
-**Important:** Naming Convention:`category/description_of_PR`
 
 ---
 
