@@ -2,7 +2,7 @@
 
 ---
 ## Usage
-This dataset is created for image recognition of food over various doneness levels.
+This dataset is created for image recognition of the condition of phone screens. 
 
 ## Instructions
 
