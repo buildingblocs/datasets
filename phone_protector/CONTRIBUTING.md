@@ -15,6 +15,7 @@
 1. Take a look at your phone screen and note down any cracks or scratches.
 2. Upload the information onto an excel sheet.
 3. State the number of cracks and/or scratches and state the severity (see template in template folder on how to do so).
+4. Download it as a csv file.
 4. Upload it.
 
 ### Creating the Pull Request
