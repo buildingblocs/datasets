@@ -5,31 +5,32 @@
 This dataset is created so that we can find the best prices for different items around Singapore.
 ## Instructions
 
-1. Prices should be in 2 d.p. without white spaces. Prices should be in SGD.
+1. Prices should be in 2 d.p. without whitespaces in SGD
       * For e.g. 1.20
+      * Do not put units
 2. Add in the relevant data (in the correct form) on a new row in the `item_prices.csv` file
-      * Phone Model (use the official name given)
-            * For eg: 100 Plus, 1.20
-      * List of items you can add 
-            * 100 Plus
-            * KitKat
-            * Snickers
-            * Indomie
-            * Shin ramen
-            * Bottled water
-            * Bottled Coke
-            * Bottled Ribena
-            * Pringles
-            * Gardenia bread
-            * Nescafe coffee original
-            * Nescafe coffee latte
-            * Nescafe coffee mocha
-            * Canned milo
-            * Packet milo
-            * Haribo gummy bears
-            * Yupi
-            * Yakult
-            * Newspaper
+      * List of items you can add (one of the following items):
+      ```
+            100 Plus
+            KitKat
+            Snickers
+            Indomie
+            Shin ramen
+            Bottled water
+            Bottled Coke
+            Bottled Ribena
+            Pringles
+            Gardenia bread
+            Nescafe coffee original
+            Nescafe coffee latte
+            Nescafe coffee mocha
+            Canned milo
+            Packet milo
+            Haribo gummy bears
+            Yupi
+            Yakult
+            Newspaper
+      ```
 
 3. Submit a pull request with your updated csv file. 
 ## Creating the Pull Request
