@@ -23,7 +23,8 @@ This dataset is created for image recognition of food over various doneness leve
 4. Be **specific** with the name of your picture.
      Do not name a picture of a hard boiled egg as just "egg"
 5. Please make sure that the images of the food item at all levels of doneness is **differentiable from the exterior**
-      * For example: Fried Chicken is **not** acceptable because we are unable to tell that the interior of the chicken is cooked from the outside.
+      * For example: *Fried Chicken* is **not** acceptable because we are unable to tell that the interior of the chicken is cooked from the outside.
+      * *Fruits and snacks* are also **not** acceptable
 
 **_Failure to comply with the requirements will lead to your PR being marked as invalid_**
 
