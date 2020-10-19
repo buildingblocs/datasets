@@ -21,6 +21,6 @@
 ---
 
 ## Image Specifications
-
+- Images should be named appropriately
 - Images should be a top-down view of the tiles
 - Tiles should take up more than 70% of the total space
