@@ -5,7 +5,7 @@
 This dataset is created so that we can find the best prices for different items around Singapore.
 ## Instructions
 
-1. Prices should be in 2 d.p. without spaces
+1. Prices should be in 2 d.p. without white spaces. Prices should be in SGD.
       * For e.g. 1.20
 2. Add in the relevant data (in the correct form) on a new row in the `item_prices.csv` file
       * Phone Model (use the official name given)
