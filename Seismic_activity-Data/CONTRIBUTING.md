@@ -2,9 +2,9 @@
 
 ---
 ## Usage
----
+
 This dataset is created for the use of finding a pattern to seismic activity and potentially saving millions of lives through early prediction of earthquakes.
----
+
 ## Creating the Pull Request
 
 1. Fork the project
