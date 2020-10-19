@@ -5,5 +5,7 @@ The datasets in this repository is as follows:
 - Food-Images
 - Lift-Images
 - Tactile_Paving_Tiles-Images
+- Pangram-Images
+- Phone_Protector-Data
 
 *Read the individual CONTRIBUTING.md files in the respective folders to find out how to contribute to the repository!*
