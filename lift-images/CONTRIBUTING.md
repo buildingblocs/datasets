@@ -17,5 +17,5 @@ This dataset is specifically created for the contribution towards building a sma
 1. Only images taken by yourself will be accepted.
 2. Images have to be of a birds-eye-view perspective of the lift.
 3. It is acceptable to have people in the images but their faces have to be blurred.
-4. Only image files in **JPG** file type are accepted.
+4. Only image files in **JPG/JPEG** file type are accepted. (Please see SAMPLE.jpeg)
 5. Freeze frames of CCTV footages are allowed.
