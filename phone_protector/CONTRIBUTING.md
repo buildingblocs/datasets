@@ -4,6 +4,7 @@
 
 - Github account
 - Folder (named appropriately)
+- A phone
 
 # Submission
 
@@ -11,9 +12,10 @@
 
 ### How's your phone protector?
 
-1. Take a picture of your current phone.
-2. Make sure cracks and fingerprints are visible.
-3. Upload it.
+1. Take a look at your phone screen and note down any cracks or scratches.
+2. Upload the information onto an excel sheet.
+3. State the number of cracks and/or scratches and state the severity.
+4. Upload it.
 
 ### Creating the Pull Request
 
