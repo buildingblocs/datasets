@@ -12,27 +12,37 @@ This dataset is created for image recognition of food over various doneness leve
             * For eg: iPhone XR (:+1:), iphonexr (:-1:)
       * Phone's Age (state in years and round up to the nearest whole number)
       * User's Age (state in years and round up to the nearest whole number)
-      * User's Gender 
-            * M - Male
-            * F - Female
-            * O - Others
+      * User's Gender (choose one of the following)
+      ```
+            M - Male
+            F - Female
+            O - Others
+      ```
       * User's Occupation
-      * Second-Hand
-            * Y - Yes
-            * N - No
-            * U - Unconfirmed
-      * Scratches Severity
-            * None
-            * Minor
-            * Severe
+      * Second-Hand (choose one of the following)
+      ```
+            Y - Yes
+            N - No
+            U - Unconfirmed
+      ```
+      * Scratches Severity (choose one of the following)
+      ```
+            None
+            Minor
+            Severe
+      ```
       * Number of Scratches (whole numbers only)
-      * Air Bubbles
-            * Y - Yes
-            * N - No
-      * Cracks Severity
-            * None
-            * Minor
-            * Severe
+      * Air Bubbles (choose one of the following)
+      ```
+            Y - Yes
+            N - No
+      ```
+      * Cracks Severity (choose one of the following)
+      ```
+            None
+            Minor
+            Severe
+      ```
       * Number of Cracks (whole numbers only)
 3. Submit a pull request with your updated csv file. 
 
