@@ -4,6 +4,7 @@
 
 - Github account
 - Folder (named appropriately)
+- A phone
 
 # Submission
 
