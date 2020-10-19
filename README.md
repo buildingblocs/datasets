@@ -4,6 +4,7 @@ This is a public repository containing datasets where anyone in the world can us
 The datasets in this repository is as follows:
 - Food-Images
 - Lift-Images
+- Seismic_activity-Data
 - Tactile_Paving_Tiles-Images
 - Pangram-Images
 - Phone_Protector-Data
