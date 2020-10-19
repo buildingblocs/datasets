@@ -7,7 +7,7 @@
 
 # Submission
 
-## What's a pangram?
+## So what's a pangram?
 
 A pangram, or holoalphabetic sentence, is a sentence that contains every letter of the alphabet at least once.
 
