@@ -20,5 +20,7 @@ This dataset is created for the use of finding a pattern to seismic activity and
 2. Data given should be unique
 3. Please provide data to all fields of the file
 4. Please provide proof of earthquake event(see 4. of **Creating a Pull Request**)
+5. Magnitude of earthquake should be recorded in **Richter Scale**
+6. Use DD/MM/YY format for recording of date
 
 **_Failure to comply with the requirements will lead to your PR being marked as invalid_**
