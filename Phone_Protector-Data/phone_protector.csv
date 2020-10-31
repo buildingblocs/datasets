@@ -1,3 +1,5 @@
 Phone Model,Phone's Age, User's Age, User's Gender, User's Occupation, Second-Hand, Scratches Severity, Number of Scratches, Air Pockets, Cracks Severity, Number of Cracks,
 iPhone XR, 3, 21, M, Student, N, Minor, 3, N, None, 0,
 iPhone XS, 3, 42, M, Banker, N, None, 0, N, None, 0,
+iPhone 8, 1, 13, Student, N, Minor, 5, N, Minor, 3,
+Samsung Galaxy Note10, 1, 14, F, Student, Y, Minor, 1, 4, None, 0
