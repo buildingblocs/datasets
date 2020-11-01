@@ -19,7 +19,7 @@ This dataset is created for the use of finding a pattern to seismic activity and
 1. seismic_activity.csv file should be updated with your new data entry
 2. Data given should be unique
 3. Please provide data to all fields of the file
-4. Please provide proof of earthquake event(see 4. of **Creating a Pull Request**)
+4. Please provide proof of earthquake event by attaching a screenshot under the **Conversations** section(see 4. of **Creating a Pull Request**)
 5. Magnitude of earthquake should be recorded in **Richter Scale**
 6. Use DD/MM/YY format for recording of date
 
